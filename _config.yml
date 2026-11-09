@@ -46,7 +46,7 @@ atom_feed:
 google_site_verification :
 twitter:
   username               :
-og_image                 : profile.jpeg
+og_image                 : profile.jpg
 og_description           : *description
 social:
   type                   : Person
