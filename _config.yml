@@ -1,0 +1,126 @@
+# Site configuration. Changes here need a restart of `jekyll serve` to show up locally.
+
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "default"
+title                    : "Josué Araújo"
+title_separator          : "-"
+name                     : &name "Josué F. C. Araújo"
+description              : &description "Physics undergraduate at the Federal University of Ceará, working on computational astrophysics, stellar characterization, data analysis and machine learning."
+url                      : https://acruxjj.github.io
+baseurl                  : ""
+repository               : "Acruxjj/Acruxjj.github.io"
+
+# Sidebar profile. Text fields may hold <span data-lang="en|pt"> pairs for the language toggle.
+author:
+  avatar           : "profile.jpeg"
+  name             : "Josué F. C. Araújo"
+  pronouns         :
+  bio              : '<span data-lang="en">Physics undergraduate | Computational Astrophysics | Data Analysis & Machine Learning</span><span data-lang="pt">Graduando em Física | Astrofísica Computacional | Análise de Dados e Machine Learning</span>'
+  location         : '<span data-lang="en">Fortaleza, Brazil</span><span data-lang="pt">Fortaleza, Brasil</span
+  employer         : '<span data-lang="en">Federal University of Ceará</span><span data-lang="pt">Universidade Federal do Ceará</span>'
+  uri              :
+  email            : "jjosucaraujo@gmail.com"
+
+  # Academic websites
+  googlescholar    :
+  orcid            :
+  lattes           : "http://lattes.cnpq.br/3700836547670468"
+
+  # Repositories and social media
+  github           : "Acruxjj"
+  linkedin         : "https://www.linkedin.com/in/jjosue-araujo"
+
+# Site Settings
+teaser                   :
+breadcrumbs              : false
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled"
+comments:
+  provider               :
+atom_feed:
+  hide                   : true
+
+# SEO / social sharing
+google_site_verification :
+twitter:
+  username               :
+og_image                 : profile.jpeg
+og_description           : *description
+social:
+  type                   : Person
+  links:
+    - "https://github.com/Acruxjj"
+    - "https://www.linkedin.com/in/jjosue-araujo"
+
+analytics:
+  provider               : "false"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - .asset-cache
+  - .bundle
+  - .github
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - package.json*
+  - README.md
+  - vendor
+keep_files:
+  - .git
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Publications and talks live in _data/publications.yml and _data/talks.yml.
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:categories/:title/
+timezone: America/Fortaleza
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

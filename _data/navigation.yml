@@ -1,0 +1,14 @@
+# Links in the top bar, in order. Each title carries both languages for the EN/PT toggle.
+
+main:
+  - title: '<span data-lang="en">Research & Experience</span><span data-lang="pt">Pesquisa e Experiência</span>'
+    url: /research/
+
+  - title: '<span data-lang="en">Projects</span><span data-lang="pt">Projetos</span>'
+    url: /projects/
+
+  - title: '<span data-lang="en">Scientific Activities</span><span data-lang="pt">Atividades Científicas</span>'
+    url: /activities/
+
+  - title: "CV"
+    url: /cv/
