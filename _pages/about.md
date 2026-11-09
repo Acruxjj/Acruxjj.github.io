@@ -66,7 +66,7 @@ redirect_from:
   </a>
 </div>
 
-<h2><span data-lang="en">Recent Scientific Activities</span><span data-lang="pt">Atividades Científicas Recentes</span></h2>
+<h2><span data-lang="en">Recent Activities</span><span data-lang="pt">Atividades Recentes</span></h2>
 
 <ul class="news">
   <li>
