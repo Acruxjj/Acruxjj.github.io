@@ -13,7 +13,7 @@ repository               : "Acruxjj/Acruxjj.github.io"
 
 # Sidebar profile. Text fields may hold <span data-lang="en|pt"> pairs for the language toggle.
 author:
-  avatar           : "profile.jpeg"
+  avatar           : "profile.jpg"
   name             : "Josué F. C. Araújo"
   pronouns         :
   bio              : '<span data-lang="en">Physics undergraduate | Computational Astrophysics | Data Analysis & Machine Learning</span><span data-lang="pt">Graduando em Física | Astrofísica Computacional | Análise de Dados e Machine Learning</span>'
