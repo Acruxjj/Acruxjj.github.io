@@ -21,20 +21,44 @@ redirect_from:
 
 <ul class="timeline">
   <li>
-    <span class="when">2022–present</span>
+    <span class="when">2022–</span>
     <div>
       <div class="what"><span data-lang="en">B.Sc. in Physics</span><span data-lang="pt">Bacharelado em Física</span></div>
       <div class="where"><span data-lang="en">Federal University of Ceará (UFC), Brazil</span><span data-lang="pt">Universidade Federal do Ceará (UFC), Brasil</span></div>
     </div>
   </li>
   <li>
-    <span class="when">2018</span>
+    <span class="when">2016-2018</span>
     <div>
       <div class="what"><span data-lang="en">Technical Degree in Computer Networks</span><span data-lang="pt">Curso Técnico em Redes de Computadores</span></div>
       <div class="where">EEEP Maria Auday Vasconcelos Nery</div>
     </div>
   </li>
 </ul>
+
+
+<h2><span data-lang="en">Technical Skills</span><span data-lang="pt">Competências Técnicas</span></h2>
+
+<ul>
+  <li><strong>Programming and Data Analysis:</strong> Python, SQL, Pandas, NumPy</li>
+  <li><strong>Machine Learning:</strong> Scikit-learn, TensorFlow, Keras</li>
+  <li><strong>Data Visualization:</strong> Matplotlib, Streamlit</li>
+  <li><strong>Databases:</strong> SQLite</li>
+  <li><strong>Development Tools:</strong> Git, GitHub, Pytest, Jupyter Notebook</li>
+</ul>
+
+<ul data-lang="pt">
+  <li><strong>Programação e Análise de Dados:</strong> Python, SQL, Pandas, NumPy</li>
+  <li><strong>Aprendizado de Máquina:</strong> Scikit-learn, TensorFlow, Keras</li>
+  <li><strong>Visualização de Dados:</strong> Matplotlib, Streamlit</li>
+  <li><strong>Bancos de Dados:</strong> SQLite</li>
+  <li><strong>Ferramentas de Desenvolvimento:</strong> Git, GitHub, Pytest, Jupyter Notebook</li>
+</ul>
+
+<h2><span data-lang="en">Languages</span><span data-lang="pt">Idiomas</span></h2>
+
+<p data-lang="en">Portuguese (native) · English (intermediate)</p>
+<p data-lang="pt">Português (nativo) · Inglês (intermediário)</p>
 
 <h2><span data-lang="en">Research Experience</span><span data-lang="pt">Experiência em Pesquisa</span></h2>
 
@@ -126,18 +150,3 @@ redirect_from:
     </div>
   </li>
 </ul>
-
-<h2><span data-lang="en">Technical Skills</span><span data-lang="pt">Competências Técnicas</span></h2>
-
-<ul>
-  <li><strong>Programming and Data Analysis:</strong> Python, SQL, Pandas, NumPy</li>
-  <li><strong>Machine Learning:</strong> Scikit-learn, TensorFlow, Keras</li>
-  <li><strong>Data Visualization:</strong> Matplotlib, Streamlit</li>
-  <li><strong>Databases:</strong> SQLite</li>
-  <li><strong>Development Tools:</strong> Git, GitHub, Pytest, Jupyter Notebook</li>
-</ul>
-
-<h2><span data-lang="en">Languages</span><span data-lang="pt">Idiomas</span></h2>
-
-<p data-lang="en">Portuguese (native) · English (intermediate)</p>
-<p data-lang="pt">Português (nativo) · Inglês (intermediário)</p>
