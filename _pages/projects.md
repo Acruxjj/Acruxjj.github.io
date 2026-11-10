@@ -13,10 +13,10 @@ author_profile: true
 
   <p>
     <span data-lang="en">
-      This research project investigates how spectral-window selection affects stellar parameter inference in M dwarfs. Using 5,000 synthetic spectra generated with Korg, one-dimensional Convolutional Neural Networks (1D CNNs) are trained and evaluated across four spectral windows to estimate effective temperature, surface gravity, and metallicity. The study also investigates how prediction uncertainties propagate into exoplanet properties, including habitable-zone location and planetary radius.
+      This research project investigates how spectral-window selection affects stellar parameter inference in M dwarfs. Using 5,000 synthetic spectra generated with Korg, one-dimensional Convolutional Neural Networks (1D CNNs) are trained and evaluated across four spectral windows to estimate effective temperature, surface gravity, and metallicity. The study also investigates how prediction uncertainties propagate into exoplanet-related estimates, including habitable-zone boundaries, transit-derived planetary radii, and giant planet occurrence rates.
     </span>
     <span data-lang="pt">
-      Este projeto de pesquisa investiga como a seleção de janelas espectrais afeta a inferência de parâmetros estelares em anãs M. Utilizando 5.000 espectros sintéticos gerados com Korg, Redes Neurais Convolucionais unidimensionais (1D CNNs) são treinadas e avaliadas em quatro janelas espectrais para estimar temperatura efetiva, gravidade superficial e metalicidade. O estudo também investiga como as incertezas das predições se propagam para propriedades de exoplanetas, incluindo a localização da zona habitável e o raio planetário.
+      Este projeto de pesquisa investiga como a seleção de janelas espectrais afeta a inferência de parâmetros estelares em anãs M. Utilizando 5.000 espectros sintéticos gerados com Korg, Redes Neurais Convolucionais unidimensionais (1D CNNs) são treinadas e avaliadas em quatro janelas espectrais para estimar temperatura efetiva, gravidade superficial e metalicidade. O estudo também investiga como as incertezas das predições se propagam para estimativas relacionadas a exoplanetas, incluindo os limites da zona de habitabilidade, os raios planetários derivados de observações de trânsito e as taxas de ocorrência de planetas gigantes.
     </span>
   </p>
 
@@ -38,10 +38,10 @@ author_profile: true
 
   <p>
     <span data-lang="en">
-      A data exploration application developed to organize, query, analyze, and visualize stellar datasets. The project uses a relational SQLite database and provides interactive visualizations through Streamlit, alongside modular Python code and automated tests.
+      A data exploration application developed to manage, query, analyze, and visualize stellar datasets. Built with Python and a relational SQLite database, the project integrates data processing with Pandas and NumPy, interactive dashboards using Streamlit, and automated testing.
     </span>
     <span data-lang="pt">
-      Uma aplicação de exploração de dados desenvolvida para organizar, consultar, analisar e visualizar conjuntos de dados estelares. O projeto utiliza um banco de dados relacional SQLite e oferece visualizações interativas com Streamlit, além de código Python modular e testes automatizados.
+      Uma aplicação de exploração de dados desenvolvida para organizar, consultar, analisar e visualizar conjuntos de dados estelares. Desenvolvido em Python com um banco de dados relacional SQLite, o projeto integra processamento de dados com Pandas e NumPy, dashboards interativos com Streamlit e testes automatizados.
     </span>
   </p>
 
