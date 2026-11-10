@@ -36,10 +36,9 @@ redirect_from:
   </li>
 </ul>
 
-
 <h2><span data-lang="en">Technical Skills</span><span data-lang="pt">Competências Técnicas</span></h2>
 
-<ul>
+<ul data-lang="en">
   <li><strong>Programming and Data Analysis:</strong> Python, SQL, Pandas, NumPy</li>
   <li><strong>Machine Learning:</strong> Scikit-learn, TensorFlow, Keras</li>
   <li><strong>Data Visualization:</strong> Matplotlib, Streamlit</li>
