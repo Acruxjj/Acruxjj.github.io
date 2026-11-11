@@ -117,26 +117,40 @@ redirect_from:
   </li>
 </ul>
 
-<h2><span data-lang="en">Selected Projects</span><span data-lang="pt">Projetos Selecionados</span></h2>
+<h2><span data-lang="en">Projects</span><span data-lang="pt">Projetos</span></h2>
 
 <ul class="timeline">
   <li>
-    <span class="when">2026–present</span>
     <div>
       <div class="what">Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs</div>
-      <div class="where"><span data-lang="en">Python · TensorFlow/Keras · Korg · Pandas · NumPy · Matplotlib</span><span data-lang="pt">Python · TensorFlow/Keras · Korg · Pandas · NumPy · Matplotlib</span></div>
-      <p data-lang="en">Computational research project involving synthetic spectra, 1D CNN regression, model evaluation, and sensitivity analysis.</p>
-      <p data-lang="pt">Projeto de pesquisa computacional envolvendo espectros sintéticos, regressão com CNNs 1D, avaliação de modelos e análise de sensibilidade.</p>
+      <div class="where">Python · TensorFlow/Keras · Korg · Pandas · NumPy · Matplotlib</div>
+      <ul>
+        <li>
+          <span data-lang="en">Conducted computational research using synthetic stellar spectra and 1D convolutional neural networks to infer stellar parameters.</span>
+          <span data-lang="pt">Desenvolvimento de pesquisa computacional com espectros estelares sintéticos e redes neurais convolucionais 1D para inferência de parâmetros estelares.</span>
+        </li>
+        <li>
+          <span data-lang="en">Evaluated model performance across spectral windows and investigated sensitivity to physical perturbations.</span>
+          <span data-lang="pt">Avaliação do desempenho dos modelos em diferentes janelas espectrais e investigação da sensibilidade a perturbações físicas.</span>
+        </li>
+      </ul>
       <a href="https://github.com/Acruxjj/spectral-windows-for-m-dwarf-host-stars" target="_blank" rel="noopener">GitHub</a>
     </div>
   </li>
   <li>
-    <span class="when">2026–present</span>
     <div>
       <div class="what">Stellar Data Explorer</div>
       <div class="where">Python · SQL · SQLite · Pandas · NumPy · Matplotlib · Streamlit · Pytest</div>
-      <p data-lang="en">Interactive application for exploring stellar datasets and Machine Learning results, using a relational database and data visualizations.</p>
-      <p data-lang="pt">Aplicação interativa para explorar conjuntos de dados estelares e resultados de Machine Learning, utilizando banco de dados relacional e visualizações.</p>
+      <ul>
+        <li>
+          <span data-lang="en">Developed an application for organizing, querying, analyzing, and visualizing stellar datasets using a relational database.</span>
+          <span data-lang="pt">Desenvolvimento de uma aplicação para organização, consulta, análise e visualização de conjuntos de dados estelares utilizando um banco de dados relacional.</span>
+        </li>
+        <li>
+          <span data-lang="en">Implemented interactive dashboards and automated tests to support data exploration and analysis.</span>
+          <span data-lang="pt">Implementação de dashboards interativos e testes automatizados para apoiar a exploração e análise dos dados.</span>
+        </li>
+      </ul>
       <a href="https://github.com/Acruxjj/stellar-inference-database" target="_blank" rel="noopener">GitHub</a>
     </div>
   </li>
