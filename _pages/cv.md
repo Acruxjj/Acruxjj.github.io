@@ -66,14 +66,26 @@ redirect_from:
     <span class="when">2024–present</span>
     <div>
       <div class="what"><span data-lang="en">Undergraduate Researcher</span><span data-lang="pt">Pesquisador de Iniciação Científica</span></div>
-      <div class="where"><span data-lang="en">Federal University of Ceará (UFC) | Volunteer</span><span data-lang="pt">Universidade Federal do Ceará (UFC)| Voluntário</span></div>
+      <div class="where"><span data-lang="en">Federal University of Ceará (UFC) | Volunteer</span><span data-lang="pt">Universidade Federal do Ceará (UFC) | Voluntário</span></div>
       <p data-lang="en"><em>Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs.</em></p>
       <p data-lang="pt"><em>Dependência da Janela Espectral na Inferência de Parâmetros Estelares de Anãs M.</em></p>
       <ul>
-        <li><span data-lang="en">Development of computational workflows for generating, processing, and analyzing synthetic stellar spectra.</span><span data-lang="pt">Desenvolvimento de fluxos computacionais para geração, processamento e análise de espectros estelares sintéticos.</span></li>
-        <li><span data-lang="en">Implementation and evaluation of 1D convolutional neural networks for stellar parameter regression.</span><span data-lang="pt">Implementação e avaliação de redes neurais convolucionais 1D para regressão de parâmetros estelares.</span></li>
-        <li><span data-lang="en">Investigation of spectral-window dependence and model sensitivity to physical perturbations.</span><span data-lang="pt">Investigação da dependência de janelas espectrais e da sensibilidade dos modelos a perturbações físicas.</span></li>
-        <li><span data-lang="en">Analysis of uncertainty propagation to derived exoplanet properties.</span><span data-lang="pt">Análise da propagação de incertezas para propriedades derivadas de exoplanetas.</span></li>
+        <li>
+          <span data-lang="en">Conducting computational astrophysics research on the inference of atmospheric parameters in M dwarfs using Machine Learning.</span>
+          <span data-lang="pt">Condução de pesquisa em astrofísica computacional voltada à inferência de parâmetros atmosféricos de estrelas anãs M por meio de Machine Learning.</span>
+        </li>
+        <li>
+          <span data-lang="en">Investigating the influence of spectral-window selection on model performance and sensitivity to physical perturbations.</span>
+          <span data-lang="pt">Investigação da influência da seleção de janelas espectrais no desempenho dos modelos e da sensibilidade a perturbações físicas.</span>
+        </li>
+        <li>
+          <span data-lang="en">Analyzing the propagation of uncertainties in stellar parameters to observable exoplanet properties.</span>
+          <span data-lang="pt">Análise da propagação das incertezas nos parâmetros estelares para propriedades observáveis de exoplanetas.</span>
+        </li>
+        <li>
+          <span data-lang="en">Presentation of research findings at national scientific events and acceptance of a contribution for presentation at an international workshop.</span>
+          <span data-lang="pt">Apresentação dos resultados em eventos científicos nacionais e aceite de trabalho para apresentação em workshop internacional.</span>
+        </li>
       </ul>
     </div>
   </li>
