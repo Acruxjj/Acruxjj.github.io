@@ -121,6 +121,7 @@ redirect_from:
 
 <ul class="timeline">
   <li>
+    <span class="when"></span>
     <div>
       <div class="what">Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs</div>
       <div class="where">Python · TensorFlow/Keras · Korg · Pandas · NumPy · Matplotlib</div>
@@ -146,6 +147,7 @@ redirect_from:
     </div>
   </li>
   <li>
+    <span class="when"></span>
     <div>
       <div class="what">Stellar Data Explorer</div>
       <div class="where">Python · SQL · SQLite · Pandas · NumPy · Matplotlib · Streamlit · Pytest</div>
