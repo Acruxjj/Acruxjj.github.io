@@ -69,7 +69,7 @@ redirect_from:
       <div class="where"><span data-lang="en">Federal University of Ceará (UFC) | Volunteer</span><span data-lang="pt">Universidade Federal do Ceará (UFC) | Voluntário</span></div>
       <p data-lang="en"><em>Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs.</em></p>
       <p data-lang="pt"><em>Dependência da Janela Espectral na Inferência de Parâmetros Estelares de Anãs M.</em></p>
-      <ul>
+      <ul style="list-style-type: disc;">
         <li>
           <span data-lang="en">Conducting computational astrophysics research on the inference of atmospheric parameters in M dwarfs using Machine Learning.</span>
           <span data-lang="pt">Condução de pesquisa em astrofísica computacional voltada à inferência de parâmetros atmosféricos de estrelas anãs M por meio de Machine Learning.</span>
@@ -144,8 +144,8 @@ redirect_from:
 </div>
 
 <div>
-  <div class="what">Stellar Data Explorer</div>
-  <div class="where">Python · SQL · SQLite · Pandas · NumPy · Matplotlib · Streamlit · Pytest</div>
+  <div class="what" style="font-weight: 700;">Stellar Data Explorer</div>
+  <div class="where" style="font-size: 0.9em; color: #9ca3af;">Python · SQL · SQLite · Pandas · NumPy · Matplotlib · Streamlit · Pytest</div>
   <ul>
     <li>
       <span data-lang="en">Developed an interactive application for exploring datasets of 5,000 M dwarfs and Machine Learning model metrics.</span>
