@@ -100,9 +100,18 @@ redirect_from:
       <div class="what"><span data-lang="en">IT Intern</span><span data-lang="pt">Estagiário de TI</span></div>
       <div class="where"><span data-lang="en">Federal Institute of Education, Science and Technology of Ceará (IFCE)</span><span data-lang="pt">Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</span></div>
       <ul>
-        <li><span data-lang="en">Technical support for staff and users in laboratories and the library.</span><span data-lang="pt">Suporte técnico a servidores e usuários em laboratórios e na biblioteca.</span></li>
-        <li><span data-lang="en">Installation and configuration of software and equipment.</span><span data-lang="pt">Instalação e configuração de softwares e equipamentos.</span></li>
-        <li><span data-lang="en">Organization and documentation of IT infrastructure assets and procedures.</span><span data-lang="pt">Organização e documentação de ativos e procedimentos da infraestrutura de TI.</span></li>
+        <li>
+          <span data-lang="en">Provided technical support to staff and users in laboratories and the library.</span>
+          <span data-lang="pt">Prestação de suporte técnico a servidores e usuários em laboratórios e na biblioteca.</span>
+        </li>
+        <li>
+          <span data-lang="en">Installed and configured software and equipment.</span>
+          <span data-lang="pt">Instalação e configuração de softwares e equipamentos.</span>
+        </li>
+        <li>
+          <span data-lang="en">Organized and documented IT infrastructure assets and procedures.</span>
+          <span data-lang="pt">Organização e documentação de ativos e procedimentos da infraestrutura de TI.</span>
+        </li>
       </ul>
     </div>
   </li>
