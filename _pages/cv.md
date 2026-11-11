@@ -63,7 +63,7 @@ redirect_from:
 
 <ul class="timeline">
   <li>
-    <span class="when">2024–present</span>
+    <span class="when">2024–</span>
     <div>
       <div class="what"><span data-lang="en">Undergraduate Researcher</span><span data-lang="pt">Pesquisador de Iniciação Científica</span></div>
       <div class="where"><span data-lang="en">Federal University of Ceará (UFC) | Volunteer</span><span data-lang="pt">Universidade Federal do Ceará (UFC) | Voluntário</span></div>
@@ -99,7 +99,7 @@ redirect_from:
     <div>
       <div class="what"><span data-lang="en">IT Intern</span><span data-lang="pt">Estagiário de TI</span></div>
       <div class="where"><span data-lang="en">Federal Institute of Education, Science and Technology of Ceará (IFCE)</span><span data-lang="pt">Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE)</span></div>
-      <ul>
+      <ul style="list-style-type: disc;">
         <li>
           <span data-lang="en">Provided technical support to staff and users in laboratories and the library.</span>
           <span data-lang="pt">Prestação de suporte técnico a servidores e usuários em laboratórios e na biblioteca.</span>
