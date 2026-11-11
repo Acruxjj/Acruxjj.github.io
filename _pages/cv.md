@@ -170,19 +170,19 @@ redirect_from:
 <h2><span data-lang="en">Activities</span><span data-lang="pt">Atividades</span></h2>
 
 <ul class="timeline">
-  <li>
+    <li>
     <span class="when">2026</span>
     <div>
-      <div class="what">XLIX Reunião Anual da Sociedade Astronômica Brasileira (SAB)</div>
-      <div class="where"><span data-lang="en">Natal, Brazil · Poster presentation</span><span data-lang="pt">Natal, Brasil · Apresentação de pôster</span></div>
+      <div class="what">From Stars to Life: Stellar Impacts on Planetary Atmospheres, Habitability, and Biosignatures Detection</div>
+      <div class="where"><span data-lang="en">International workshop · Poster accepted</span><span data-lang="pt">Workshop internacional · Pôster aceito</span></div>
       <p><em>Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs.</em></p>
     </div>
   </li>
   <li>
     <span class="when">2026</span>
     <div>
-      <div class="what">From Stars to Life: Stellar Impacts on Planetary Atmospheres, Habitability, and Biosignatures Detection</div>
-      <div class="where"><span data-lang="en">International workshop · Poster accepted</span><span data-lang="pt">Workshop internacional · Pôster aceito</span></div>
+      <div class="what">XLIX Reunião Anual da Sociedade Astronômica Brasileira (SAB)</div>
+      <div class="where"><span data-lang="en">Natal, Brazil · Poster presentation</span><span data-lang="pt">Natal, Brasil · Apresentação de pôster</span></div>
       <p><em>Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs.</em></p>
     </div>
   </li>
