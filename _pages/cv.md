@@ -120,8 +120,8 @@ redirect_from:
 <h2><span data-lang="en">Projects</span><span data-lang="pt">Projetos</span></h2>
 
 <div>
-  <div class="what">Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs</div>
-  <div class="where">Python · TensorFlow/Keras · Korg · Pandas · NumPy · Matplotlib</div>
+  <div class="what" style="font-weight: 700;">Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs</div>
+  <div class="where" style="font-size: 0.9em; color: #9ca3af;">Python · TensorFlow/Keras · Korg · Pandas · NumPy · Matplotlib</div>
   <ul>
     <li>
       <span data-lang="en">Developed a modular pipeline for generating and processing 5,000 synthetic stellar spectra using Korg.</span>
