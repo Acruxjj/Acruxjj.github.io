@@ -121,7 +121,6 @@ redirect_from:
 
 <ul class="timeline">
   <li>
-    <span class="when"></span>
     <div>
       <div class="what">Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs</div>
       <div class="where">Python · TensorFlow/Keras · Korg · Pandas · NumPy · Matplotlib</div>
@@ -146,8 +145,8 @@ redirect_from:
       <a href="https://github.com/Acruxjj/spectral-windows-for-m-dwarf-host-stars" target="_blank" rel="noopener">GitHub</a>
     </div>
   </li>
+
   <li>
-    <span class="when"></span>
     <div>
       <div class="what">Stellar Data Explorer</div>
       <div class="where">Python · SQL · SQLite · Pandas · NumPy · Matplotlib · Streamlit · Pytest</div>
@@ -173,7 +172,6 @@ redirect_from:
     </div>
   </li>
 </ul>
-
 <h2><span data-lang="en">Scientific Activities</span><span data-lang="pt">Atividades Científicas</span></h2>
 
 <ul class="timeline">
