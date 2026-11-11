@@ -119,7 +119,7 @@ redirect_from:
 
 <h2><span data-lang="en">Projects</span><span data-lang="pt">Projetos</span></h2>
 
-<ul class="timeline">
+<ul>
   <li>
     <div>
       <div class="what">Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs</div>
@@ -172,6 +172,7 @@ redirect_from:
     </div>
   </li>
 </ul>
+
 <h2><span data-lang="en">Scientific Activities</span><span data-lang="pt">Atividades Científicas</span></h2>
 
 <ul class="timeline">
