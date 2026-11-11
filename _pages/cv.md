@@ -119,61 +119,55 @@ redirect_from:
 
 <h2><span data-lang="en">Projects</span><span data-lang="pt">Projetos</span></h2>
 
-<ul>
-  <li>
-    <div>
-      <div class="what">Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs</div>
-      <div class="where">Python · TensorFlow/Keras · Korg · Pandas · NumPy · Matplotlib</div>
-      <ul>
-        <li>
-          <span data-lang="en">Developed a modular pipeline for generating and processing 5,000 synthetic stellar spectra using Korg.</span>
-          <span data-lang="pt">Desenvolvimento de pipeline modular para geração e processamento de 5.000 espectros sintéticos com Korg.</span>
-        </li>
-        <li>
-          <span data-lang="en">Implemented and trained 1D convolutional neural networks (1D CNNs) for stellar parameter regression across four spectral windows.</span>
-          <span data-lang="pt">Implementação e treinamento de redes neurais convolucionais (1D CNNs) para regressão de parâmetros estelares em quatro janelas espectrais.</span>
-        </li>
-        <li>
-          <span data-lang="en">Implemented evaluation routines, error analysis, and sensitivity tests involving physical perturbations.</span>
-          <span data-lang="pt">Implementação de rotinas de avaliação, análise de erros e testes de sensibilidade a perturbações físicas.</span>
-        </li>
-        <li>
-          <span data-lang="en">Organized code, notebooks, results, and technical documentation using Git for version control.</span>
-          <span data-lang="pt">Organização do código, notebooks, resultados e documentação técnica com controle de versão em Git.</span>
-        </li>
-      </ul>
-      <a href="https://github.com/Acruxjj/spectral-windows-for-m-dwarf-host-stars" target="_blank" rel="noopener">GitHub</a>
-    </div>
-  </li>
+<div>
+  <div class="what">Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs</div>
+  <div class="where">Python · TensorFlow/Keras · Korg · Pandas · NumPy · Matplotlib</div>
+  <ul>
+    <li>
+      <span data-lang="en">Developed a modular pipeline for generating and processing 5,000 synthetic stellar spectra using Korg.</span>
+      <span data-lang="pt">Desenvolvimento de pipeline modular para geração e processamento de 5.000 espectros sintéticos com Korg.</span>
+    </li>
+    <li>
+      <span data-lang="en">Implemented and trained 1D convolutional neural networks (1D CNNs) for stellar parameter regression across four spectral windows.</span>
+      <span data-lang="pt">Implementação e treinamento de redes neurais convolucionais (1D CNNs) para regressão de parâmetros estelares em quatro janelas espectrais.</span>
+    </li>
+    <li>
+      <span data-lang="en">Implemented evaluation routines, error analysis, and sensitivity tests involving physical perturbations.</span>
+      <span data-lang="pt">Implementação de rotinas de avaliação, análise de erros e testes de sensibilidade a perturbações físicas.</span>
+    </li>
+    <li>
+      <span data-lang="en">Organized code, notebooks, results, and technical documentation using Git for version control.</span>
+      <span data-lang="pt">Organização do código, notebooks, resultados e documentação técnica com controle de versão em Git.</span>
+    </li>
+  </ul>
+  <a href="https://github.com/Acruxjj/spectral-windows-for-m-dwarf-host-stars" target="_blank" rel="noopener">GitHub</a>
+</div>
 
-  <li>
-    <div>
-      <div class="what">Stellar Data Explorer</div>
-      <div class="where">Python · SQL · SQLite · Pandas · NumPy · Matplotlib · Streamlit · Pytest</div>
-      <ul>
-        <li>
-          <span data-lang="en">Developed an interactive application for exploring datasets of 5,000 M dwarfs and Machine Learning model metrics.</span>
-          <span data-lang="pt">Desenvolvimento de aplicação interativa para exploração de dados de 5.000 estrelas anãs M e métricas de modelos de aprendizado de máquina.</span>
-        </li>
-        <li>
-          <span data-lang="en">Designed and implemented a relational SQLite database, using SQL queries to retrieve, aggregate, and compare data.</span>
-          <span data-lang="pt">Modelagem e implementação de banco de dados relacional SQLite, com consultas SQL para recuperação, agregação e comparação de informações.</span>
-        </li>
-        <li>
-          <span data-lang="en">Built a Streamlit dashboard with Matplotlib visualizations to analyze stellar properties and model performance across different spectral windows.</span>
-          <span data-lang="pt">Desenvolvimento de dashboard com Streamlit e visualizações com Matplotlib para análise de propriedades estelares e desempenho de modelos em diferentes janelas espectrais.</span>
-        </li>
-        <li>
-          <span data-lang="en">Structured the codebase into modular components and implemented automated tests using Pytest.</span>
-          <span data-lang="pt">Organização modular do código e implementação de testes automatizados com Pytest.</span>
-        </li>
-      </ul>
-      <a href="https://github.com/Acruxjj/stellar-inference-database" target="_blank" rel="noopener">GitHub</a>
-    </div>
-  </li>
-</ul>
+<div>
+  <div class="what">Stellar Data Explorer</div>
+  <div class="where">Python · SQL · SQLite · Pandas · NumPy · Matplotlib · Streamlit · Pytest</div>
+  <ul>
+    <li>
+      <span data-lang="en">Developed an interactive application for exploring datasets of 5,000 M dwarfs and Machine Learning model metrics.</span>
+      <span data-lang="pt">Desenvolvimento de aplicação interativa para exploração de dados de 5.000 estrelas anãs M e métricas de modelos de aprendizado de máquina.</span>
+    </li>
+    <li>
+      <span data-lang="en">Designed and implemented a relational SQLite database, using SQL queries to retrieve, aggregate, and compare data.</span>
+      <span data-lang="pt">Modelagem e implementação de banco de dados relacional SQLite, com consultas SQL para recuperação, agregação e comparação de informações.</span>
+    </li>
+    <li>
+      <span data-lang="en">Built a Streamlit dashboard with Matplotlib visualizations to analyze stellar properties and model performance across different spectral windows.</span>
+      <span data-lang="pt">Desenvolvimento de dashboard com Streamlit e visualizações com Matplotlib para análise de propriedades estelares e desempenho de modelos em diferentes janelas espectrais.</span>
+    </li>
+    <li>
+      <span data-lang="en">Structured the codebase into modular components and implemented automated tests using Pytest.</span>
+      <span data-lang="pt">Organização modular do código e implementação de testes automatizados com Pytest.</span>
+    </li>
+  </ul>
+  <a href="https://github.com/Acruxjj/stellar-inference-database" target="_blank" rel="noopener">GitHub</a>
+</div>
 
-<h2><span data-lang="en">Scientific Activities</span><span data-lang="pt">Atividades Científicas</span></h2>
+<h2><span data-lang="en">Activities</span><span data-lang="pt">Atividades</span></h2>
 
 <ul class="timeline">
   <li>
