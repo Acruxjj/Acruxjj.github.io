@@ -65,8 +65,8 @@ redirect_from:
   <li>
     <span class="when">2024–present</span>
     <div>
-      <div class="what"><span data-lang="en">Undergraduate Researcher (Volunteer)</span><span data-lang="pt">Pesquisador de Iniciação Científica (Voluntário)</span></div>
-      <div class="where"><span data-lang="en">Federal University of Ceará (UFC)</span><span data-lang="pt">Universidade Federal do Ceará (UFC)</span></div>
+      <div class="what"><span data-lang="en">Undergraduate Researcher</span><span data-lang="pt">Pesquisador de Iniciação Científica</span></div>
+      <div class="where"><span data-lang="en">Federal University of Ceará (UFC) | Volunteer</span><span data-lang="pt">Universidade Federal do Ceará (UFC)| Voluntário</span></div>
       <p data-lang="en"><em>Spectral Window Dependence in Stellar Parameter Inference of M Dwarfs.</em></p>
       <p data-lang="pt"><em>Dependência da Janela Espectral na Inferência de Parâmetros Estelares de Anãs M.</em></p>
       <ul>
