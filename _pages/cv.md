@@ -167,7 +167,10 @@ redirect_from:
   <a href="https://github.com/Acruxjj/stellar-inference-database" target="_blank" rel="noopener">GitHub</a>
 </div>
 
-<h2><span data-lang="en">Activities</span><span data-lang="pt">Atividades</span></h2>
+<h2>
+  <span data-lang="en">Scientific Output & Events</span>
+  <span data-lang="pt">Produção Científica e Eventos</span>
+</h2>
 
 <ul class="timeline">
     <li>
